@@ -9,8 +9,16 @@ A random modifer is added to each road, this modifier is generated randomly from
 
 <h2>Data</h2>
 <table>
-| Road   | 1  | 2  | 3  | 4  | 5  | 6  | 7   | 8  | 9   | 10  | 11 |
-|--------|----|----|----|----|----|----|-----|----|-----|-----|----|
-| Number | 87 | 71 | 82 | 68 | 97 | 56 | 238 | 77 | 169 | 167 | 84 |
-</table>
+Road - Max Traffic
+  #1 - 87
+  #2 - 71
+  #3 - 82
+  #4 - 68
+  #5 - 97
+  #6 - 56
+  #7 - 238
+  #8 - 77
+  #9 - 169
+  #10 - 167
+  #11 - 84
 S of x = 57.05
